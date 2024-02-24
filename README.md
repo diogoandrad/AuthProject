@@ -1,2 +1,1 @@
-# Projeto para autenticação
-Project using Laravel
+# Authentication project
